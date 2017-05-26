@@ -1,4 +1,4 @@
-my new project
+# My PI4 demo project
 
 ## Data
 
